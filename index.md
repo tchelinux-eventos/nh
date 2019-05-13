@@ -18,7 +18,7 @@ Serão fornecidos certificados digitais para os participantes do evento, que con
 
 ## Programação
 
-| <center> Horário </center> | <center> Auditório <br> Desenvolvimento </center> | <center> Sala 302 <br> DevOps e SysAdmin  </center> | <center> Sala 303 <br> IoT, Comunidade e Segurança  </center> |
+| <center> Horário </center> | <center> Sala 1 <br> Desenvolvimento e Jogos </center> | <center> Sala 2 <br> IoT, DevOps e SysAdmin  </center> | <center> Sala 3 <br> Segurança, Comunidade e Aplicações </center> |
 |:--------------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | **08:30** <td colspan=4><center>**Credenciamento**</center> |
 | **09:00** <td colspan=4><center>**Abertura**<br> <span class="label label-info">Todo o público</span> <br>   Equipe Tchelinux  <br> </center> |
