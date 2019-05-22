@@ -57,7 +57,11 @@ Jogar todo mundo joga. Programar, todo mundo pode. Jogar todo mundo treina. Prog
 Como aprender python partindo do zero usando apenas recursos online e livros 
 
 ### Adriano Margarin 
-[Adriano Margarin](https://fb.com/adrianomargarin) é Desenvolvedor WEB com 8+ anos de experiência utilizando as tecnologias Python e Django.
+[Adriano Margarin](https://fb.com/adrianomargarin) é Empreendedor e palestrante, Adriano Margarin divide suas experiências com o intuito de contribuir para a transformação de comunidades de software livre, ideias e atualizações do mercado no cenário da tecnologia.
+
+Graduado em sistemas de informação, é desenvolvedor WEB e atua como consultor no setor. O foco reside em melhoras de desempenho, tempo de execução, expertise e conhecimento em desenvolvimento de software e suas aplicações.
+
+"Hoje, minha maior motivação vem de solucionar problemas e mostrar que não existem limites para quem realmente sonha grande. Temos nos dedos e na mente ótimas ideias para desenvolver e estamos apenas no começo de uma grande jornada chamada de tecnologia". 
 
 ### Porque Você Deve Aprender Rust 
 Rust (a linguagem, não o jogo) é uma linguagem que produz código em que a memória é protegida. Trazendo muitas das funcionalidades de linguagens funcionais, com abstrações de alto nível e performance semelhante a C, Rust é uma linguagem que você realmente deve aprender.
