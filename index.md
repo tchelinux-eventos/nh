@@ -169,7 +169,7 @@ O objetivo da palestra é apresentar uma visão geral e o potencial do Latex par
 
 ## Local
 
-> **Universidade FEEVALE**
+> **Universidade FEEVALE (Campus II)**
 > RS 239, 2755
 > Vila Nova
 > Novo Hamburgo, RS
@@ -177,6 +177,13 @@ O objetivo da palestra é apresentar uma visão geral e o potencial do Latex par
 <div class="map-responsive">
 	<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13867.849659839487!2d-51.11827!3d-29.662865!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xc0d78c5c5ba599b5!2sUniversidade+Feevale+-+C%C3%A2mpus+II!5e0!3m2!1sen!2sbr!4v1557113257562!5m2!1sen!2sbr" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
+
+## Mapa da FEEVALE
+
+<center>
+  <img src="images/mapa_feevale.jpg">
+</center>
+
 
 ## Apoio
 
