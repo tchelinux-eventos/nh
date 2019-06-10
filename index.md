@@ -22,7 +22,7 @@ Serão fornecidos certificados digitais para os participantes do evento, que con
 |:--------------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | **08:30** <td colspan=4><center>**Credenciamento**</center> |
 | **09:00** <td colspan=4><center>**Abertura**<br> <span class="label label-info">Todo o público</span> <br>   Equipe Tchelinux  <br> </center> |
-| **9:30** |  [**App Web em 10 minutos com Web2py**](#App_Web_em_10_minutos_com_Web2py) <br> <span class="label label-success">Principiante</span> <br> Mauro Duarte |  [**Git para Principiantes**](#Git_para_Principiantes) <br> <span class="label label-success">Principiante</span> <br> Fabio Beneditto |  [**Oficina de GNUPG com Festa de Assinatura de Chaves**](#Oficina_de_GNUPG_com_Festa_de_Assinatura_de_Chaves) <br> <span class="label label-warning">Intermediário</span> <br> Adriano Rafael Gomes | 
+| **9:30** |  [**App Web em 10 minutos com Web2py**](#App_Web_em_10_minutos_com_Web2py) <br> <span class="label label-success">Principiante</span> <br> Mauro Duarte |  [**Git para Principiantes**](#Git_para_Principiantes) <br> <span class="label label-success">Principiante</span> <br> Fabio Beneditto |  [**Cerveja "Open Source"**](#Cerveja_Open_Source) <br> <span class="label label-success">Principiante</span> <br> Thiago Becker | 
 | **10:20** |  [**Introdução ao Spring Boot MVC no Java Servlet Stack com a aplicação Pet Clinic**](#Introdução_ao_Spring_Boot_MVC_no_Java_Servlet_Stack_com_a_aplicação_Pet_Clinic) <br> <span class="label label-success">Principiante</span> <br> Marco Aurélio Souza Mangan |  [**Sistemas Embarcados e Buildroot**](#Sistemas_Embarcados_e_Buildroot) <br> <span class="label label-success">Principiante</span> <br> Renato Severo |  [**Avanço dos serviços públicos, com o advento das tecnologias**](#Avanço_dos_serviços_públicos,_com_o_advento_das_tecnologias) <br> <span class="label label-warning">Intermediário</span> <br> Edison Mattos da Silva Junior |
 | **11:10** |  [**Desenvolvendo jogos com Python e pygame**](#Desenvolvendo_jogos_com_Python_e_pygame) <br> <span class="label label-success">Principiante</span> <br> Rafael Guterres Jeffman |  [**"Faz essa coisinha no arduino": Arduino e eletrônica DIY**](#"Faz_essa_coisinha_no_arduino":_Arduino_e_eletrônica_DIY) <br> <span class="label label-success">Principiante</span> <br> Thiago Becker |  [**A importância de ir além do conhecimento técnico**](#A_importância_de_ir_além_do_conhecimento_técnico) <br> <span class="label label-success">Principiante</span> <br> Alisson Lima | 
 | **12:00** <td colspan=4><center>**Intervalo para Almoço**</center> |
@@ -123,11 +123,12 @@ Se hoje você sofre uma indisponibilidade na sua operação, causada pela sua in
 ### Giovani Razeira 
 [Giovani Razeira](https://www.linkedin.com/in/razeira-giovani/)  Giovani Razeira atua na área comercial da Adentro Cloud Solutions e conduz um projeto de parceria entre o Data Center e software houses e desenvolvedores para identificar a melhor solução de infraestrutura em nuvem aos clientes. Comunicativo como é requerido a um profissional da área, encontro como maior motivação o feedback positivo de ter encontrado a melhor solução a cada demanda.
 
-### Oficina de GNUPG com Festa de Assinatura de Chaves 
-Nesta oficina, os participantes criarão o seu par de chaves criptográficas e assinarão as chaves uns dos outros, ingressando na rede de confiança. Para participar das atividades da oficina, você deverá levar o seu laptop particular. Se você já tiver um par de chaves e quiser apenas participar da festa de assinatura, não precisará levar o seu laptop. 
+### Cerveja "Open Source"
 
-### Adriano Rafael Gomes 
-[Adriano Rafael Gomes](https://arg.eti.br/) é usuário do GNUPG de longa data.
+A palestra apresenta outras maneiras como o movimento open source influenciou o mundo, focando em homebrweing: qual o processo, como a comunidade se forma, onde encontrar mais informações.
+
+### Thiago Rafael Becker 
+[Thiago Rafael Becker](https://github.com/trbecker) é Senior Software Maintenance Engineer da Red Hat e queimador de capacitor.
 
 ### Avanço dos serviços públicos, com o advento das tecnologias 
 A palestra tem por objeto, apresentar a grande contribuição das tecnologias aos serviços públicos. Ainda em crescimento, se comparado com países, estados e municípios desenvolvidos, contudo, já há como mensurar a grande contribuição nos dias de hoje. Municípios que investem em tecnologia como base para melhoria de seus processos, têm se mostrado muito mais eficientes no serviço fim; Leia-se serviços entregues à comunidade.
