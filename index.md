@@ -88,7 +88,7 @@ O mínimo que você precisa saber sobre Git, sistema de versionamento de arquivo
 [Fabio Beneditto](https://about.me/fabiobeneditto) é Desenvolvedor Web, egresso da Feevale, Old School Nerd, simpatizante de F/OSS, segurança da informação e comunidades em geral. Voluntário Tchelinux desde 2016, é praticante de mototerapia.
 
 ### Criando uma imagem Linux com Buildroot para a Raspberry Pi 
-Buidroot é uma ferramenta para automação do processo de geração de um sistema Linux para dispositivos embarcados. O objetivo da palestra é dar uma visão geral dos componentes de um sistema embarcado que utiliza Linux e como gerar um sistema Linux embarcado com o Buildroot. 
+Buidroot é uma ferramenta para automação do processo de geração de um sistema Linux para dispositivos embarcados. Nessa palestra vamos ver os componentes básicos de uma imagem Linux, que é a base de uma distribuição ou de um sistema embarcado, e como criá-los com o Buildroot, montando uma imagem para ser embarcada num Raspberry-Pi.
 
 ### Rafael Guterres Jeffman 
 [Rafael Guterres Jeffman](https://github.com/rafasgj) é fotógrafo, impressor e professor universitário. Leciona as disciplinas de algoritmos, estruturas de dados e desenvolvimento de jogos. Colaborou por anos com a distribuição GoboLinux. Entre seu projetos atuais, está um sistema de gerenciamento de ativos digitais multiplataforma, open source.
